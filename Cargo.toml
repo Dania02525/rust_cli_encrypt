@@ -1,0 +1,9 @@
+[package]
+name = "encrypter_cli"
+version = "0.1.0"
+authors = ["dania02525 <dania02525@gmail.com>"]
+
+[dependencies]
+rand = "0.3.14"
+rust-crypto = "^0.2"
+data-encoding = "2.1.0"
